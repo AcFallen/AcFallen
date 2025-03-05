@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://source.unsplash.com/1600x500/?technology,coding" alt="Banner de desarrollo" width="100%" />
+</p>
+
+
 <h1 align="center">👋 Hi there, I'm Roberto Carlos Apaza Cornejo!</h1>
 
 ## 🚀 About Me
