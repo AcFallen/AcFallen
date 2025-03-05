@@ -24,5 +24,5 @@ If you like my work, you can support me by buying a coffee:
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-orange?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/tuusuario)
 
 ## 📊 GitHub Stats
-![Roberto Carlos Apaza Cornejo GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
+![Roberto Carlos Apaza Cornejo GitHub stats](https://github-readme-stats.vercel.app/api?username=AcFallen&show_icons=true&theme=dark)
 
