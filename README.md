@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="[https://source.unsplash.com/1600x500/?technology,coding](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" alt="Banner de desarrollo" width="100%" />
-</p>
-
-
 <h1 align="center">👋 Hi there, I'm Roberto Carlos Apaza Cornejo!</h1>
 
 ## 🚀 About Me
